@@ -10,13 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //adasd
-//teestando
-        //adasdas
-
-        //asdsa
-
-        //asdasdasd
     }
 
     private void teste(){
